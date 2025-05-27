@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shreyas Adiga — a passionate and motivated tech enthusiast currently pursuing my Master of Computer Applications (MCA) at Karnataka State Open University (KSOU).<br><br>I hold a Bachelor of Computer Applications (BCA) degree from Seshadripuram Degree College, where I built a strong foundation in software development and IT concepts.
+Hi, I'm Shreyas Adiga — a passionate and motivated tech enthusiast currently pursuing my Master of Computer Applications (MCA) at Karnataka State Open University (KSOU).<br><br>I Completed a Bachelor of Computer Applications (BCA) degree from Seshadripuram Degree College, where I built a strong foundation in software development and IT concepts.
 
 
 # 💻 Tech Stack:
