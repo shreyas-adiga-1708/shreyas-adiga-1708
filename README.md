@@ -27,8 +27,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Frontend Tech</h3>
 
 ###
