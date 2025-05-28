@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png)
 # 💫 About Me:
 👋 Hi, I'm Shreyas Adiga<br>🎨 Flyer Designer | 💻 MCA Student at KSOU<br>🎓 BCA Graduate from Seshadripuram Degree College<br><br>I'm passionate about designing visually appealing flyers and exploring the world of software development. Currently pursuing my Master of Computer Applications (MCA) from Karnataka State Open University (KSOU), I aim to blend creativity with technology to build innovative digital solutions.
 
