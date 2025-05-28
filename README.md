@@ -1,7 +1,11 @@
 ![Header](assets/shreyasadiga.png)
+<br clear="both">
+
 <h1 align="left">Hi, I am Shreyas Adiga</h1>
 
 ###
+
+<br clear="both">
 
 <p align="left">🎨 Flyer Designer | 💻 MCA Student at KSOU<br>🎓 BCA Graduate from Seshadripuram Degree College<br><br>I'm passionate about designing visually appealing flyers and exploring the world of software development. Currently pursuing my Master of Computer Applications (MCA) from Karnataka State Open University (KSOU), I aim to blend creativity with technology to build innovative digital solutions.</p>
 
@@ -23,11 +27,11 @@
 
 ###
 
-<img align="right" height="163" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<h3 align="left">Frontend Tech</h3>
 
 ###
 
-<h3 align="left">Frontend Tech</h3>
+<img align="right" height="163" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 ###
 
@@ -41,13 +45,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Libraries</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -57,13 +57,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Designing Tool</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
