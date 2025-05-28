@@ -1,6 +1,6 @@
 <br clear="both">
 
-![Header](./github-header-image (1).png)
+![Header](assets/github-header-image(1).png)
 
 
 ###
