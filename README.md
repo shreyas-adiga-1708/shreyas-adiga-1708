@@ -1,4 +1,4 @@
-![Header](assets/github-header-image(1).png)
+![Header](assets/shreyasadiga.png)
 <br clear="both">
 
 
