@@ -1,6 +1,5 @@
-<br clear="both">
-
 ![Header](assets/github-header-image(1).png)
+<br clear="both">
 
 
 ###
