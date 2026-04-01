@@ -88,13 +88,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-adiga-1708&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyas-adiga-1708&show_icons=true&theme=tokyonight&count_private=true" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-adiga-1708&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreyas-adiga-1708&layout=compact&theme=tokyonight" height="150" />
 
-</div>
-
-<h2 align="left">📫 Contact Me</h2>
+</div><h2 align="left">📫 Contact Me</h2>
 
 ###
 
