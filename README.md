@@ -1,89 +1,90 @@
 <h1 align="center">Hi 👋, I'm Shreyas Adiga</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Data Analysis</h3>
 
----
+###
 
-## 📌 About Me
-- 🎯 Aspiring Data Analyst with strong foundation in **Python, SQL, and Data Analysis**
-- 📊 Passionate about extracting insights and solving real-world problems using data
-- 🚀 Built projects involving **real-time systems with 97% accuracy**
-- 💡 Interested in **data-driven decision making and analytics**
+<h4 align="center">Aspiring Data Analyst | Python • SQL • Data Analysis</h4>
 
----
+###
 
-## 🎓 Education
-- 🎓 **Bachelor of Computer Applications (BCA)**  
-  Seshadripuram Degree College, Mysore  
-  📅 Oct 2021 – Jun 2024  
-  📊 **Percentage: 80%**
+<h2 align="left">📌 About Me</h2>
 
----
+###
 
-## 💻 Projects
+<p align="left">🎯 Aspiring Data Analyst with strong foundation in Python, SQL, and Data Analysis<br>📊 Passionate about extracting insights and solving real-world problems using data<br>🚀 Built projects involving real-time systems with 97% accuracy<br>💡 Interested in data-driven decision making and analytics</p>
 
-### 🖱️ Virtual Mouse Using Hand Gesture Recognition
-- 🔧 Built using **Python, OpenCV, MediaPipe**
-- 🎯 Achieved **97% accuracy** in gesture recognition
-- ⚡ Improved gesture stability by **25%**
-- ⏱️ Reduced cursor latency by **~20ms**
-- 📊 Used **NumPy, Pandas, Matplotlib** for performance analysis
-- 🔍 Performed model evaluation to improve consistency
+###
 
----
+<h2 align="left">🎓 Education</h2>
 
-## 💼 Internship Experience
+###
 
-### 🏢 Python in AI Internship — C-DAC  
-📍 Adithya Tech Park Pvt Ltd, Mysore  
-📅 Feb 2024 – Mar 2024  
+<p align="left">🎓 Bachelor of Computer Applications (BCA)<br>  Seshadripuram Degree College, Mysore<br>  📅 Oct 2021 – Jun 2024<br>  📊 Percentage: 80%</p>
 
-- Developed **6+ mini projects**
-  - Face Recognition  
-  - Gold Price Prediction  
-  - Employee Management System  
-- 📊 Performed **data analysis & visualization**
-- 🧠 Applied:
-  - OOP Concepts  
-  - Exception Handling  
-  - File Handling  
-  - SQLite Integration  
+###
 
----
+<h2 align="left">💻 Projects</h2>
 
-## 🛠️ Technical Skills
+###
 
-### 👨‍💻 Languages
+<h3 align="left">🖱️ Virtual Mouse Using Hand Gesture Recognition</h3>
+
+###
+
+<p align="left">* 🔧 Built using **Python, OpenCV, MediaPipe**<br>* 🎯 Achieved **97% accuracy**<br>* ⚡ Improved stability by **25%**<br>* ⏱️ Reduced latency by **~20ms**<br>* 📊 Used **NumPy, Pandas, Matplotlib**</p>
+
+###
+
+<h2 align="left">💼 Internship Experience</h2>
+
+###
+
+<p align="left">🏢 Python in AI Internship — C-DAC<br><br>📍 Adithya Tech Park Pvt Ltd, Mysore<br>📅 Feb 2024 – Mar 2024<br><br>* Developed **6+ mini projects**<br>* Face Recognition, Gold Price Prediction, Employee Management<br>* Used **Pandas, NumPy, Matplotlib**<br>* Applied OOP, SQLite, File Handling</p>
+
+###
+
+<h2 align="left">🛠️ Technical Skills</h2>
+
+###
+
+<h3 align="left">Languages</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-### 🗄️ Databases
+###
+
+<h2 align="left">🗄️ Databases</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+###
 
-### 🧠 Concepts
-- Object-Oriented Programming (OOP)
+<h2 align="left">🧠 Concepts</h2>
 
----
+###
 
-## 📜 Certifications
-- 🏅 Certificate in Python (100 Hours) — C-DAC, Pune
+<p align="left">🏅 Certificate in Python (100 Hours) — C-DAC, Pune</p>
 
----
+###
 
-## 📫 Contact Me
-- 📧 Email: shreyasadiga178@gmail.com
-- 📱 Phone: +91 9606565397
+<h2 align="left">🐍 Contribution Snake</h2>
 
----
-
-⭐ *“Turning data into insights and insights into decisions.”*
+###
 
 <img src="https://raw.githubusercontent.com/shreyas-adiga-1708/shreyas-adiga-1708/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
@@ -91,5 +92,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shreyas-adiga-1708&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas-adiga-1708&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">📫 Contact Me</h2>
+
+###
+
+<p align="left">* 📧 Email: [shreyasadiga178@gmail.com](mailto:shreyasadiga178@gmail.com)<br>* 📱 Phone: +91 9606565397</p>
 
 ###
