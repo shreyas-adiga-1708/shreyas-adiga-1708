@@ -90,6 +90,17 @@
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyas-adiga-1708&show_icons=true&theme=tokyonight&count_private=true" height="150" />
 
+
+<div align="left">
+  <a href="www.linkedin.com/in/shreyasadiga1188" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+  
+
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreyas-adiga-1708&layout=compact&theme=tokyonight" height="150" />
 
 </div><h2 align="left">📫 Contact Me</h2>
