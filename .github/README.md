@@ -24,6 +24,12 @@ Seshadripuram Degree College, Mysore<br>
 
 <h3 align="left">🖱️ Virtual Mouse Using Hand Gesture Recognition</h3>
 
+<p align="left">
+🔗 <a href="https://github.com/shreyas-adiga-1708/virtual-mouse-using-hand-gesture-recognition" target="_blank">
+View Project
+</a>
+</p>
+
 <ul align="left">
   <li>🔧 Built using <b>Python, OpenCV, MediaPipe</b></li>
   <li>🎯 Achieved <b>97% accuracy</b></li>
