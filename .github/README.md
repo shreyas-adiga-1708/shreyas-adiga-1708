@@ -49,13 +49,17 @@ Seshadripuram Degree College, Mysore<br>
 
 <h2 align="left">🛠️ Technical Skills</h2>
 
-<h3 align="left">Languages & Databases</h3>
+<h3 align="left">Languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12"/>
+</div>
+
+<h3 align="left">Databases</h3>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
 </div>
 
