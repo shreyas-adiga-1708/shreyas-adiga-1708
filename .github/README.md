@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreyas Adiga</h1>
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shreyas Adiga
+======================================================================================================================================
 <h4 align="center">MCA Candidate | Aspiring QA Automation Engineer | Java | Selenium | SQL | Python | Data Analytics | AI</h4>
 
 <h2 align="left">📌 About Me</h2>
