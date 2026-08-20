@@ -48,8 +48,8 @@ View Project
 <h2 align="left">💼 Internship Experience</h2>
 
 <p align="left">
-🏢 Python in AI Internship — C-DAC<br><br>
-📍 Adithya Tech Park Pvt Ltd, Mysore<br>
+🏢 <strong>Python in AI Internship — C-DAC</strong><br>
+📍 <em>Adithya Tech Park Pvt Ltd, Mysore</em><br>
 📅 Feb 2024 – Mar 2024
 </p>
 
