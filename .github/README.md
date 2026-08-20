@@ -82,6 +82,20 @@ View Project
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
 </div>
 
+<h3>Data Analytics</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
+  <img src="https://msicons.com/icons/fabric/power_bi_regular.svg" height="50" alt="Power BI"/></div>
+
+<h3>AI & Computer Vision</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV"/>
+</div>
+
 <h2 align="left">📜 Certifications</h2>
 
 <p align="left">
