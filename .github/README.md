@@ -87,10 +87,11 @@ View Project
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyas-adiga-1708&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreyas-adiga-1708&layout=compact&theme=tokyonight" height="150"/>
-</div>
+![](https://github-readme-stats.shion.dev/api?username=shreyas-adiga-1708&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shreyas-adiga-1708&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyas-adiga-1708&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h2 align="left">Social Media</h2>
 
