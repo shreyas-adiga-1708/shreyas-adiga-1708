@@ -70,7 +70,8 @@ View Project
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img width="12"/>
-
+  
+<h3 align="left">Automation & Testing</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
   <img width="12"/>
 </div>
