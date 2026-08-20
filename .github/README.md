@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shreyas Adiga</h1>
 
-<h4 align="center">Aspiring Data Analyst | Python • SQL • Data Analysis</h4>
+<h4 align="center">MCA Candidate | Aspiring QA Automation Engineer | Java | Selenium | SQL | Python | Data Analytics | AI</h4>
 
 <h2 align="left">📌 About Me</h2>
 
 <p align="left">
-🎯 Aspiring Data Analyst with strong foundation in Python, SQL, and Data Analysis<br>
-📊 Passionate about extracting insights and solving real-world problems using data<br>
-🚀 Built projects involving real-time systems with 97% accuracy<br>
-💡 Interested in data-driven decision making and analytics
+🔍 Aspiring QA Automation Engineer with a strong foundation in Java, Selenium, SQL, and Python<br>
+🧪 Interested in test automation, software quality, and real-world problem solving<br>
+📊 Skilled in data analysis and data-driven insights<br>
+🚀 Building practical projects and continuously improving my automation and technical skills<br>
+💡 Interested in QA Automation, Software Testing, Data Analytics, and AI
 </p>
 
 <h2 align="left">🎓 Education</h2>
@@ -60,7 +61,12 @@ View Project
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"/>
+  <img width="12"/>
 </div>
 
 <h3 align="left">Databases</h3>
