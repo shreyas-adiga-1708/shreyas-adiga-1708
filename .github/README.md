@@ -15,8 +15,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2 align="left">🎓 Education</h2>
 
 <p align="left">
-🎓 Bachelor of Computer Applications (BCA)<br>
-Seshadripuram Degree College, Mysore<br>
+🎓 <strong>Master of Computer Applications (MCA)</strong><br>
+<em>Karnataka State Open University, Mysuru</em><br>
+📅 Oct 2024 – Present<br>
+</p>
+
+<p align="left">
+🎓 <strong>Bachelor of Computer Applications (BCA)</strong><br>
+<em>Seshadripuram Degree College, Mysuru</em><br>
 📅 Oct 2021 – Jun 2024<br>
 📊 Percentage: 80%
 </p>
