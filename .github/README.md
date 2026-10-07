@@ -45,7 +45,7 @@ View Project
   <li>📊 Used <b>NumPy, Pandas, Matplotlib</b></li>
 </ul>
 
-<h3 align="left">🖱️ Virtual Mouse Using Hand Gesture Recognition</h3>
+<h3 align="left">🖱️HR management System</h3>
 <p align="left">
 🔗 <a href="https://github.com/shreyas-adiga-1708/virtual-mouse-using-hand-gesture-recognition" target="_blank">
 View Project
