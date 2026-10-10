@@ -62,6 +62,14 @@ View Project
 <li>📦 Analyzed <b>10,000 e-commerce orders</b></li>
 </ul>
 
+<h3 align="left"> IT Ticket Management System  (Jira Service Management)</h3>
+
+<p align="left">
+🔗 <a href="" target="_blank">
+View Project
+</a>
+</p>
+
 
 
 
