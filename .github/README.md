@@ -65,7 +65,7 @@ View Project
 <h3 align="left"> IT Ticket Management System  (Jira Service Management)</h3>
 
 <p align="left">
-🔗 <a href="" target="_blank">
+🔗 <a href="https://github.com/shreyas-adiga-1708/Ticket-Management-System" target="_blank">
 View Project
 </a>
 </p>
