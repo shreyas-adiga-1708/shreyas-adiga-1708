@@ -54,11 +54,12 @@ View Project
 </p>
 
 <ul align="left">
-  <li></b></li>
-  <li></b></li>
-  <li><b></b></li>
-  <li><b></b></li>
-  <li><b></b></li>
+<li>🔧 Built using <b>Python, SQL, SQLite, Power BI</b></li>
+<li>🤖 Implemented <b>Machine Learning for return risk prediction</b></li>
+<li>📝 Analyzed customer feedback using <b>NLP, spaCy, TextBlob</b></li>
+<li>📊 Created interactive <b>Power BI dashboards</b></li>
+<li>📈 Used <b>Prophet, K-Means Clustering</b></li>
+<li>📦 Analyzed <b>10,000 e-commerce orders</b></li>
 </ul>
 
 
