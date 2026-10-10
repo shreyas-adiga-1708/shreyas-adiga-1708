@@ -68,9 +68,7 @@ View Project
 🔗 <a href="https://github.com/shreyas-adiga-1708/Ticket-Management-System" target="_blank">
 View Project
 </a>
-  <h1 align="center">Ticket Management System – Test Automation</h1>
-
-<p align="center">
+<p align="left">
   Automated testing using <b>Java</b> and <b>Selenium WebDriver</b>.
 </p>
 
