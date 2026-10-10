@@ -45,6 +45,22 @@ View Project
   <li>📊 Used <b>NumPy, Pandas, Matplotlib</b></li>
 </ul>
 
+<h3 align="left">E Commerce Return and Refund Intelligence Platform Return IQ</h3>
+
+<p align="left">
+🔗 <a href="" target="_blank">
+View Project
+</a>
+</p>
+
+<ul align="left">
+  <li></b></li>
+  <li></b></li>
+  <li><b></b></li>
+  <li><b></b></li>
+  <li><b></b></li>
+</ul>
+
 
 
 
