@@ -45,12 +45,7 @@ View Project
   <li>📊 Used <b>NumPy, Pandas, Matplotlib</b></li>
 </ul>
 
-<h3 align="left">HR management System</h3>
-<p align="left">
-🔗 <a href="https://github.com/shreyas-adiga-1708/HR_management" target="_blank">
-View Project
-</a>
-</p>
+
 
 
 <h2 align="left">💼 Internship Experience</h2>
