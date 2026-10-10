@@ -48,7 +48,7 @@ View Project
 <h3 align="left">E Commerce Return and Refund Intelligence Platform Return IQ</h3>
 
 <p align="left">
-🔗 <a href="" target="_blank">
+🔗 <a href="https://github.com/shreyas-adiga-1708/Return-IQ" target="_blank">
 View Project
 </a>
 </p>
